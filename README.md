@@ -1,5 +1,5 @@
 # ShelfJolt-Biblioteca Virtual - ETE Jurandir Bezerra Lins - TCC
-## Introdução:
+## Introdução
 Este projeto apresenta uma Biblioteca Virtual que permite aos usuários encontrar e acessar remotamente os livros disponíveis na biblioteca da escola ETE Jurandir Bezerra Lins. Seja via computador ou dispositivo móvel, a plataforma visa facilitar o acesso à leitura de forma 100% remota.
 
 ## Objetivos
